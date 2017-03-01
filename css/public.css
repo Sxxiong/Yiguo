@@ -38,14 +38,14 @@ body {
   top: 50%;
   background: url("../images/header-img.png") no-repeat;
 }
-.fr li {
+.site_fr li {
   color: #444;
   padding: 0 10px;
 }
-.fr a {
+.site_fr a {
   position: relative;
 }
-.fr a i {
+.site_fr a i {
   float: left;
   display: inline-block;
   vertical-align: middle;
@@ -55,7 +55,7 @@ body {
   margin-right: 5px;
   background: url("../images/header-img.png") no-repeat;
 }
-.fr a s {
+.site_fr a s {
   width: 8px;
   height: 4px;
   position: absolute;
@@ -63,23 +63,23 @@ body {
   top: 50%;
   background: url("../images/header-img.png") no-repeat left top;
 }
-.fr li:nth-child(1) a i {
+.site_fr li:nth-child(1) a i {
   background-position: -86px 0;
 }
-.fr li:nth-child(2) a i {
+.site_fr li:nth-child(2) a i {
   width: 22px;
   background-position: -147px 0;
 }
-.fr li:nth-child(3) {
+.site_fr li:nth-child(3) {
   margin-right: 10px;
 }
-.fr li:nth-child(3) a i {
+.site_fr li:nth-child(3) a i {
   background-position: -63px 0;
 }
-.fr li:nth-child(4) {
+.site_fr li:nth-child(4) {
   margin-right: 10px;
 }
-.fr li:nth-child(4) a i {
+.site_fr li:nth-child(4) a i {
   background-position: -40px 0;
 }
 /*头部*/
